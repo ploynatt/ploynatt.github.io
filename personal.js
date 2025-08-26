@@ -83,12 +83,9 @@ document.addEventListener("DOMContentLoaded", () => {
   const aboutButton = document.querySelector(".cover--enter");
   const rope = document.getElementById("rope");
 
-  // Function to show projects screen with rope animation
   function showProjects() {
-    // Hide button
     aboutButton.style.display = "none";
 
-    // Move cover up
     coverSection.style.transition = "transform 0.8s, opacity 0.8s";
     coverImage.style.transition = "transform 0.8s, opacity 0.8s";
     coverSection.style.transform = "translateY(-100vh)";
