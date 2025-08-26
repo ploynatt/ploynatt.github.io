@@ -162,7 +162,7 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 1rem;
+    gap: 2rem;
     margin-bottom: 1rem;
     flex-wrap: wrap;
 
@@ -173,18 +173,19 @@ a{
 }
 
 .project-description {
-  max-width: 400px;
-  color:#00000089;
+	font-size: 14px;
+  	max-width: 400px;
+  	color:#00000089;
 }
 
 .project-link {
-  color:#00000089;
-  text-decoration: underline;
+  	color:#00000089;
+  	text-decoration: underline;
 
 }
 
 .project-link:hover {
-  color:#000000af
+  	color:#000000af
 }
 
 /* rope */
