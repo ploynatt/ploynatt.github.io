@@ -4,6 +4,8 @@ My personal portfolio website showcasing projects, contact links,
 and interactive animations. Includes a rope element to toggle
 between cover and projects sections.
 
+Link: https://ploynatt.github.io/
+
 Features
 --------
 - Cover section with name, title, and cover image
